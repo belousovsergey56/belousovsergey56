@@ -11,7 +11,7 @@
 - Telegram bot "Currency exchange rate", [github](https://github.com/belousovsergey56/CurrencyRateTelegramBot)
 <hr>
 
-### Languages and Tools 🎻 🛠️
+### Languages and Tools 🛠️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="poetry" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="bootstrap" width=40 height=40/>&nbsp;
@@ -33,3 +33,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="json" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="jqery" width=40 height=40/>&nbsp;
+<hr>
+
+### Contacts 📬
+💬 [Telegram](https://t.me/sbelousov56) 
+✉️ [gmail](belousovsergej56@gmail.com) 
+📋 [HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=306c8135ff0ce28acc0039ed1f7847584a386e)

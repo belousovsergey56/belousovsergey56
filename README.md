@@ -8,7 +8,7 @@
 - Export to Wialon - wrapper over Wialon for mass modification of data in the object cards of leasing companies, as well as mass deletion, addition. An internal admin panel has also been developed to administer user access.
 - Website Art studio, [github](https://github.com/belousovsergey56/pro-iskusstvo)
 - Website Roadside Assistance, [github](https://github.com/belousovsergey56/help-on-road)
-- Telegram bot "Currency exchange rate", [github](https://github.com/belousovsergey56/CurrencyRateTelegramBot)
+- Telegram bot Currency exchange rate, [github](https://github.com/belousovsergey56/CurrencyRateTelegramBot)
 <hr>
 
 ### Languages and Tools 🛠️
@@ -35,7 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="jqery" width=40 height=40/>&nbsp;
 <hr>
 
-### Contacts 📬
-💬 [Telegram](https://t.me/sbelousov56) 
-✉️ [gmail](belousovsergej56@gmail.com) 
-📋 [HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=306c8135ff0ce28acc0039ed1f7847584a386e)
+### Contacts and CV 📬
+- 💬 [Telegram](https://t.me/sbelousov56) 
+- ✉️ [gmail](belousovsergej56@gmail.com) 
+- 📋 [HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=306c8135ff0ce28acc0039ed1f7847584a386e)

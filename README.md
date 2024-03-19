@@ -38,4 +38,4 @@
 ### Contacts and CV 📬
 - 💬 [Telegram](https://t.me/sbelousov56) 
 - ✉️ [gmail](belousovsergej56@gmail.com) 
-- 📋 [HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=306c8135ff0ce28acc0039ed1f7847584a386e)
+- 📋 [CV on HeadHunter](https://spb.hh.ru/applicant/resumes/view?resume=306c8135ff0ce28acc0039ed1f7847584a386e)

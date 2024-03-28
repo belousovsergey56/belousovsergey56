@@ -5,10 +5,10 @@
 <hr>
 
 ### Projects 💻
-- Export to Wialon - wrapper over Wialon for mass modification of data in the object cards of leasing companies, as well as mass deletion, addition. An internal admin panel has also been developed to administer user access.
-- Website Art studio, [github](https://github.com/belousovsergey56/pro-iskusstvo)
-- Website Roadside Assistance, [github](https://github.com/belousovsergey56/help-on-road)
-- Telegram bot Currency exchange rate, [github](https://github.com/belousovsergey56/CurrencyRateTelegramBot)
+- [Export to Wialon](https://github.com/belousovsergey56/gurtam) - wrapper over Wialon for mass modification of data in the object cards of leasing companies, as well as mass deletion, addition. An internal admin panel has also been developed to administer user access.
+- [Website Art studio](https://github.com/belousovsergey56/pro-iskusstvo)
+- [Website Roadside Assistance](https://github.com/belousovsergey56/help-on-road)
+- [Telegram bot Currency exchange rate](https://github.com/belousovsergey56/CurrencyRateTelegramBot)
 <hr>
 
 ### Languages and Tools 🛠️

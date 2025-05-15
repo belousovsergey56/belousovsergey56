@@ -37,4 +37,4 @@
 ### Contacts and CV 📬
 - 💬 [Telegram](https://t.me/sbelousov56) 
 - ✉️ [gmail](belousovsergej56@gmail.com) 
-- 📋 [CV](https://github.com/belousovsergey56/belousovsergey56/blob/main/%D0%91%D0%B5%D0%BB%D0%BE%D1%83%D1%81%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87.pdf)
+- 📋 [CV](https://github.com/belousovsergey56/belousovsergey56/blob/main/belousov.pdf)

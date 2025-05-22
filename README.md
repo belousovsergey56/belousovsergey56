@@ -2,12 +2,7 @@
 - Python developer
 - I'm currently working on development and support of the application Export to the Wialon for the company Caesar Satellite
 - I'm looking for a job as a backend developer. In my work I value my colleagues and well-functioning processes.
-<hr>
 
-### Projects 💻
-- [Website Art studio](https://github.com/belousovsergey56/pro-iskusstvo)
-- [Website Roadside Assistance](https://github.com/belousovsergey56/help-on-road)
-- [Telegram bot Currency exchange rate](https://github.com/belousovsergey56/CurrencyRateTelegramBot)
 <hr>
 
 ### Languages and Tools 🛠️

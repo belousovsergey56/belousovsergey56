@@ -1,35 +1,66 @@
-### Hi, my name is Sergey 👋 and i ❤️ to automate workflows
-- Python developer
-- I'm currently working on development and support of the application Export to the Wialon for the company Caesar Satellite
-- I'm looking for a job as a backend developer. In my work I value my colleagues and well-functioning processes.
+# Hi, I'm Belousov Sergey 👋
 
-<hr>
+**Python Backend Developer** | Санкт-Петербург (open to remote)
 
-### Languages and Tools 🛠️
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="poetry" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="bootstrap" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" title="debian" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" title="fedora" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="docker" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="mysql" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgresql" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="flask" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="git" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="pycharm" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" title="vim" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="json" width=40 height=40/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="jqery" width=40 height=40/>&nbsp;
-<hr>
+С 2022 года автоматизирую бизнес-процессы и создаю внутренние сервисы в **Цезарь Сателлит**.  
+Специализируюсь на высокопроизводительных API, интеграциях и оптимизации данных.  
+Сокращаю время обработки в десятки раз и строю удобные внутренние инструменты.
 
-### Contacts and CV 📬
-- 💬 [Telegram](https://t.me/sbelousov56) 
-- ✉️ [gmail](belousovsergej56@gmail.com) 
-- 📋 [CV](https://github.com/belousovsergey56/belousovsergey56/blob/main/belousov.pdf)
+Ищу позицию **Backend Python Developer** (remote / hybrid).  
+Открыт к интересным проектам и новым командам.
+
+---
+
+### 🛠️ Languages and Tools
+
+**Core Stack:**
+- **Python** (3.11+, Asyncio, Multiprocessing)
+- **FastAPI**, **Flask**, Pydantic
+- **SQLAlchemy**, Alembic, Pandas
+- **PostgreSQL**, SQLite
+
+**Infrastructure & Tools:**
+- Docker, Docker Compose
+- Git, GitHub Actions, Pytest, Unittest
+- Ruff, Black, UV
+- Bash/Zsh scripting, Linux (Debian/RedHat)
+
+**Environment:**
+- Helix, Kitty, tmux
+
+---
+
+### 💼 Experience
+
+**Python Developer / Technical Specialist**  
+**ООО «Цезарь Сателлит» (Caesar Satellite)** — 2022 — present
+
+**Key Achievements:**
+- Спроектировал и реализовал интеграцию с **Wialon API** для массовой обработки объектов: сократил время выполнения с **4 часов до 3 секунд**.
+- Автоматизировал обработку 18 000+ объектов для крупных клиентов (Газпром Банк, Каркаде): сократил время с **12 часов до 20 минут**.
+- Разработал модуль автоматического импорта истории перемещений: ускорил процесс в **12 раз** и отказался от платных сторонних сервисов.
+- Создал внутреннее веб-приложение на **Flask + SQLAlchemy** для мониторинга телематики.
+- Построил структурированную **Knowledge Base**: сократил время онбординга и поиска решений в **2 раза**.
+- Подготовил Docker-образы и docker-compose для деплоя в корпоративной интрасети.
+
+---
+
+### 🚀 Featured Projects
+
+- **[terminal-note](https://github.com/belousovsergey56/terminal-note)**  
+  CLI-утилита для заметок прямо в терминале (fzf, шаблоны, Markdown, кастомные редакторы). Полностью заменяет Obsidian для быстрой работы.
+
+- **[FastAPIEventNotify](https://github.com/belousovsergey56/FastAPIEventNotify)** & **[EventNotify](https://github.com/belousovsergey56/EventNotify)**  
+  Telegram-боты с ежедневными уведомлениями о событиях и спектаклях в Санкт-Петербурге (KudaGo API + FastAPI/Flask + APScheduler).
+
+- **[my_configs](https://github.com/belousovsergey56/my_configs)**  
+  Готовые конфиги для быстрой настройки dev-окружения (Zsh, Neovim, Helix, Kitty, tmux).
+
+---
+
+### 📬 Get in Touch
+
+- 💬 **Telegram**: [@sbelousov56](https://t.me/sbelousov56)
+- ✉️ **Email**: [belousovsergej56@gmail.com](mailto:belousovsergej56@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/sergey-belousov-685841187](https://www.linkedin.com/in/sergey-belousov-685841187/)
+- 📋 **Полное резюме**: [belousov.pdf](https://github.com/belousovsergey56/belousovsergey56/blob/main/belousov.pdf) (или скачай из репозитория)
